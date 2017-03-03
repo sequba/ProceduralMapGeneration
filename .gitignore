@@ -1,3 +1,10 @@
 Voronoi/Debug/
 *.vcxproj
 *.filters
+
+# compiled objects
+*.o
+main
+
+# exclude also generated result?
+# /Voronoi/mapa.txt
